@@ -1,0 +1,56 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi mathvariant="normal">&#x03A6;<!-- Φ --></mi>
+  <mrow>
+    <mo>(</mo>
+    <msub>
+      <mi>x</mi>
+      <mn>1</mn>
+    </msub>
+    <mo>,</mo>
+    <msub>
+      <mi>x</mi>
+      <mn>2</mn>
+    </msub>
+    <mo>,</mo>
+    <msub>
+      <mi>x</mi>
+      <mn>3</mn>
+    </msub>
+    <mo>)</mo>
+  </mrow>
+  <mo>=</mo>
+  <mo stretchy="false">(</mo>
+  <msub>
+    <mi>x</mi>
+    <mn>1</mn>
+  </msub>
+  <mo>&#x2228;<!-- ∨ --></mo>
+  <mover>
+    <msub>
+      <mi>x</mi>
+      <mn>3</mn>
+    </msub>
+    <mo accent="false">&#x00AF;<!-- ¯ --></mo>
+  </mover>
+  <mo>&#x2228;<!-- ∨ --></mo>
+  <msub>
+    <mi>x</mi>
+    <mn>2</mn>
+  </msub>
+  <mo stretchy="false">)</mo>
+  <mo>&#x2227;<!-- ∧ --></mo>
+  <mo stretchy="false">(</mo>
+  <msub>
+    <mi>x</mi>
+    <mn>3</mn>
+  </msub>
+  <mo>&#x2228;<!-- ∨ --></mo>
+  <mover>
+    <msub>
+      <mi>x</mi>
+      <mn>1</mn>
+    </msub>
+    <mo accent="false">&#x00AF;<!-- ¯ --></mo>
+  </mover>
+  <mo stretchy="false">)</mo>
+</math>
